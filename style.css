@@ -1,2 +1,6 @@
-p{font-family: "Times New Roman";;}
+td{
+  font-family: "Times New Roman";
+  color:teal;
+}
+a{font-family: "Times New Roman";}
 #cap{color:white;}
