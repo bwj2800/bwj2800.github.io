@@ -1,6 +1,9 @@
 td{
-  font-family: "Times New Roman";
-  color:teal;
+  color:orange;
+  font-weight: bold;
 }
 a{font-family: "Times New Roman";}
-#cap{color:white;}
+#cap{
+  color:white;
+  font-weight: lighter;
+}
